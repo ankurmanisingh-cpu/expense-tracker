@@ -4,7 +4,7 @@ A simple Expense tracker application built using HTML,CSS and JAVAScript.
 https://expense-tracker-ankurmani.netlify.app/
 
 ## GitHub Repository
-https://github.com/ankurmanisingh-opu/expense-tracker
+https://github.com/ankurmanisingh-cpu/expense-tracker
 ## Features
 - Add daily expenses
 - Expense list display
